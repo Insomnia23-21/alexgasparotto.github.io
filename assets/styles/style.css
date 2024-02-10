@@ -2,7 +2,11 @@
 
 .navbar {
   padding: 0rem;
-  background-color: #f5f6f7;
+  background-color: #272749;
+}
+
+.navbar a {
+  color: #f5f6f7;
 }
 
 .navbar-collapse {
